@@ -29,3 +29,4 @@ Quora Kaggle Competition 2019
   #### State-of-the-Art Approaches (Papers)
   * http://www.arxiv-sanity.com/ 
   * https://github.com/sebastianruder/NLP-progress/blob/master/english/sentiment_analysis.md
+  * https://github.com/keon/awesome-nlp#research-summaries-and-trends
