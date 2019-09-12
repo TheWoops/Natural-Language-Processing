@@ -21,6 +21,7 @@ Quora Kaggle Competition 2019
     * [Article about Embeddings and Language Models](https://towardsdatascience.com/from-word-embeddings-to-pretrained-language-models-a-new-age-in-nlp-part-2-e9af9a0bdcd9)
   * ##### General:
     * http://nlp.fast.ai/category/classification.html
+    * https://github.com/explosion/spacy-pytorch-transformers (spaCy pipelines for BERT, XLNet and GPT-2)
 
   #### Online Books for NLP (free!)
   * http://www.nltk.org/book/
