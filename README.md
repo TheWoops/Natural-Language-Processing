@@ -4,7 +4,7 @@ Quora Kaggle Competition 2019
 
 ### Data preparation:
 [  → Python Code Snippets for Preprocessing in NLP](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Kaggle_Kernels/Theorie/Theorieteil%20-%20Data%20preparation.ipynb)<br />
-[  → Data Exploration Kernel Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Kaggle_Kernels/Praxis/BusinessDataUnderstanding.ipynb)
+[  → Data Exploration Kernel Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Kaggle_Kernels/Praxis/DataUnderstanding.ipynb)
 
 
 
