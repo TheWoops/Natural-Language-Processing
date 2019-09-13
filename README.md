@@ -21,8 +21,10 @@ Quora Kaggle Competition 2019
     * [SpaCy Matcher](https://github.com/explosion/spaCy/blob/master/website/docs/usage/rule-based-matching.md) and [Matcher Demo](https://explosion.ai/demos/matcher)
     * http://textmining.wp.hs-hannover.de/Preprocessing.html respectively http://textmining.wp.hs-hannover.de/tutorials.html
     * [Article about Embeddings and Language Models](https://towardsdatascience.com/from-word-embeddings-to-pretrained-language-models-a-new-age-in-nlp-part-2-e9af9a0bdcd9)
-  * ##### General:
+  * ##### Modeling
     * https://github.com/explosion/spacy-pytorch-transformers (spaCy pipelines for BERT, XLNet and GPT-2)
+  * ##### Evaluation
+    * [AI Fairness 360 - Bias, Fairness Testing](https://github.com/IBM/AIF360)
 
   #### Online Books for NLP (free!)
   * http://www.nltk.org/book/
