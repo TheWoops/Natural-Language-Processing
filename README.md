@@ -20,15 +20,19 @@ Quora Kaggle Competition 2019
     * [SpaCy Cheatsheet](http://datacamp-community-prod.s3.amazonaws.com/29aa28bf-570a-4965-8f54-d6a541ae4e06)
     * [SpaCy Matcher](https://github.com/explosion/spaCy/blob/master/website/docs/usage/rule-based-matching.md) and [Matcher Demo](https://explosion.ai/demos/matcher)
     * http://textmining.wp.hs-hannover.de/Preprocessing.html respectively http://textmining.wp.hs-hannover.de/tutorials.html
-    * [Article about Embeddings and Language Models](https://towardsdatascience.com/from-word-embeddings-to-pretrained-language-models-a-new-age-in-nlp-part-2-e9af9a0bdcd9)
+    * [Nice Article about Embeddings and Language Models](https://towardsdatascience.com/from-word-embeddings-to-pretrained-language-models-a-new-age-in-nlp-part-2-e9af9a0bdcd9)
   * ##### Modeling
     * https://github.com/explosion/spacy-pytorch-transformers (spaCy pipelines for BERT, XLNet and GPT-2)
   * ##### Evaluation
     * [AI Fairness 360 - Bias, Fairness Testing](https://github.com/IBM/AIF360)
 
-  #### Online Books for NLP (free!)
-  * http://www.nltk.org/book/
-  * Basic Text Books: https://web.stanford.edu/~jurafsky/slp3/ & https://nlp.stanford.edu/fsnlp/
+  #### Online Books(free!)
+  * ##### Deep Learning
+    * https://en.d2l.ai/d2l-en.pdf
+  * ##### NLP
+    * http://www.nltk.org/book/
+    * Basic Text Books: https://web.stanford.edu/~jurafsky/slp3/ & https://nlp.stanford.edu/fsnlp/
+  
 
   #### State-of-the-Art Approaches (Paper Overview)
   * http://www.arxiv-sanity.com/ 
