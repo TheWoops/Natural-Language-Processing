@@ -34,6 +34,7 @@ Quora Kaggle Competition 2019
     * Basic Text Books: https://web.stanford.edu/~jurafsky/slp3/ & https://nlp.stanford.edu/fsnlp/
 
 * #### State-of-the-Art Approaches (Paper Overview)
-  * http://www.arxiv-sanity.com/ 
+  * http://www.arxiv-sanity.com/ (AI-papers  in general)
+  * https://www.aclweb.org/anthology (papers on the study of computational linguistics and NLP)
   * https://github.com/sebastianruder/NLP-progress/blob/master/english/sentiment_analysis.md
   * https://github.com/keon/awesome-nlp#research-summaries-and-trends
