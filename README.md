@@ -9,7 +9,6 @@ Quora Kaggle Competition 2019
 ### Modeling:
 [  → Modeling Kernel Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Kaggle_Kernels/Praxis/Modeling/V20-2xRNN-GlobalPooling.ipynb) - 0.686
 
-<br></br>
 ### Resources
 
 * #### Deep Learning 
