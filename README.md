@@ -2,7 +2,7 @@
 
 State-of-the-art NLP principles and methods for toxic comment classification
 
-[  → Basics Preprocessing Techniques (Python Code Snippets) ](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Kaggle_Kernels/Theorie/Theorieteil%20-%20Data%20preparation.ipynb)<br />
+[  → Basic Preprocessing Techniques (Python Code Snippets) ](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Kaggle_Kernels/Theorie/Theorieteil%20-%20Data%20preparation.ipynb)<br />
 
 ### Data preparation:
 [  → Data Exploration Kernel Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/023c53e04af8a4f4b5fea8e8cb102216ef4035f0/Kaggle_Kernels/Praxis/DataUnderstanding.ipynb)
