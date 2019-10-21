@@ -1,14 +1,15 @@
 # Natural-Language-Processing
 
-State-of-the-art NLP principles and methods for toxic comment classification
+State-of-the-art NLP principles and methods for toxic comment classification<br />
+The three links below contain notebooks were these techniques are applied. 
 
-[  → Basic Preprocessing Techniques (Python Code Snippets) ](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Kaggle_Kernels/Theorie/Theorieteil%20-%20Data%20preparation.ipynb)<br />
+[  → Basic NLP-Preprocessing Techniques (Python Code Snippets) ](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Kernels/Theorie/Theorieteil%20-%20Data%20preparation.ipynb)<br />
 
 ### Data preparation:
-[  → Data Exploration Kernel Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/023c53e04af8a4f4b5fea8e8cb102216ef4035f0/Kaggle_Kernels/Praxis/DataUnderstanding.ipynb)
+[  → Data Exploration Kernel Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/023c53e04af8a4f4b5fea8e8cb102216ef4035f0/Kernels/Praxis/DataUnderstanding.ipynb)
 
 ### Modeling:
-[  → Modeling Kernel Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/develop/Kaggle_Kernels/Praxis/Modeling/final_v3.ipynb) - 0.683
+[  → Modeling Kernel Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/develop/Kernels/Praxis/Modeling/final_v3.ipynb) - contains the model 
 
 ### Resources
 
