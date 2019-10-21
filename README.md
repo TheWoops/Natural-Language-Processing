@@ -6,7 +6,7 @@ The three links below contain notebooks were these techniques are applied.
 [  → Basic NLP-Preprocessing Techniques (Python Code Snippets) ](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Kernels/Theorie/Theorieteil%20-%20Data%20preparation.ipynb)<br />
 
 ### Data preparation:
-[  → Data Exploration Kernel Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/023c53e04af8a4f4b5fea8e8cb102216ef4035f0/Kernels/Praxis/DataUnderstanding.ipynb)
+[  → Data Exploration Kernel Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Kernels/Praxis/DataUnderstanding.ipynb)
 
 ### Modeling:
 [  → Modeling Kernel Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/develop/Kernels/Praxis/Modeling/final_v3.ipynb) - contains the model 
