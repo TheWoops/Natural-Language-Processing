@@ -1,15 +1,16 @@
 # Natural-Language-Processing
 
 State-of-the-art NLP principles and methods for toxic comment classification<br />
-The three links below contain notebooks were these techniques are applied. 
+In the notebooks above these techniques are applied.<br />
+The links below display the above notebooks via nbviewer, because Github sometimes fails to display .ipynb-files properly. 
 
-[  → Basic NLP-Preprocessing Techniques (Python Code Snippets) ](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Kernels/Theorie/Theorieteil%20-%20Data%20preparation.ipynb)<br />
+[  → Basic NLP-Preprocessing Techniques (Python Code Snippets) ](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/NLP_basics_data_preparation.ipynb)<br />
 
 ### Data preparation:
-[  → Data Exploration Kernel Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Kernels/Praxis/DataUnderstanding.ipynb)
+[  → Data Exploration - Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Quora_Dataset_DataUnderstanding.ipynb)
 
 ### Modeling:
-[  → Modeling Kernel Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/develop/Kernels/Praxis/Modeling/final_v3.ipynb) - contains the model 
+[  → Modeling - Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Quora_Dataset_Model.ipynb) - contains the model 
 
 ### Resources
 
