@@ -4,13 +4,13 @@ State-of-the-art NLP principles and methods for toxic comment classification<br 
 In the notebooks above these techniques are applied.<br />
 The links below display the above notebooks via nbviewer, because Github sometimes fails to display .ipynb-files properly. 
 
-[  → Basic NLP-Preprocessing Techniques (Python Code Snippets) ](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/NLP_basics_data_preparation.ipynb)<br />
+[  → Basic NLP-Preprocessing Techniques (Python Code Snippets) ](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Theorieteil%20-%20Data_Preparation.ipynb)<br />
 
 ### Data preparation:
 [  → Data Exploration - Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Praxisteil%20-%20Data_Exploration.ipynb)
 
 ### Modeling:
-* [  → Modeling - Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Quora_Dataset_Model.ipynb) - pure Keras
+* [Custom Keras Model](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Praxisteil%20-%20Finaler_Prototyp.ipynb) 
 * [ELMO via TensorflowHub showcase for the Quora Dataset](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Transfer_Learning_ELMO_mit_TensorflowHub.ipynb)
 * [BERT via TensorflowHub showcase for the Quora Dataset](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Transfer%20Learning_BERT_mit_TensorflowHub.ipynb)
 * [XLNET with SpaCy-Pytorch Transformers showcase for the Quora Dataset](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Transfer%20Learning_XLNet_mit_SpaCy.ipynb)
