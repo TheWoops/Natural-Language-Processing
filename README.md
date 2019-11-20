@@ -10,11 +10,11 @@ The links below display the above notebooks via nbviewer, because Github sometim
 [  → Data Exploration - Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Quora_Dataset_DataUnderstanding.ipynb)
 
 ### Modeling:
-[  → Modeling - Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Quora_Dataset_Model.ipynb) - pure Keras
-[ELMO via TensorflowHub showcase for the Quora Dataset(https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Transfer_Learning_ELMO_mit_TensorflowHub.ipynb)
-[BERT via TensorflowHub showcase for the Quora Dataset(https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Transfer%20Learning_BERT_mit_TensorflowHub.ipynb)
-[XLNET with SpaCy-Pytorch Transformers showcase for the Quora Dataset(https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Transfer%20Learning_XLNet_mit_SpaCy.ipynb)
-[BERT with SpaCy-Pytorch-Transformers showcase for the Quora Dataset(https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Transfer%20Learning_BERT_mit_%20SpaCy.ipynb)
+* [  → Modeling - Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Quora_Dataset_Model.ipynb) - pure Keras
+* [ELMO via TensorflowHub showcase for the Quora Dataset](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Transfer_Learning_ELMO_mit_TensorflowHub.ipynb)
+* [BERT via TensorflowHub showcase for the Quora Dataset](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Transfer%20Learning_BERT_mit_TensorflowHub.ipynb)
+* [XLNET with SpaCy-Pytorch Transformers showcase for the Quora Dataset](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Transfer%20Learning_XLNet_mit_SpaCy.ipynb)
+* [BERT with SpaCy-Pytorch-Transformers showcase for the Quora Dataset](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Transfer%20Learning_BERT_mit_%20SpaCy.ipynb)
 
 ### Resources
 
