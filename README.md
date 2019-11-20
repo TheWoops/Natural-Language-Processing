@@ -7,7 +7,7 @@ The links below display the above notebooks via nbviewer, because Github sometim
 [  → Basic NLP-Preprocessing Techniques (Python Code Snippets) ](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/NLP_basics_data_preparation.ipynb)<br />
 
 ### Data preparation:
-[  → Data Exploration - Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Quora_Dataset_DataUnderstanding.ipynb)
+[  → Data Exploration - Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Praxisteil%20-%20Data_Exploration.ipynb)
 
 ### Modeling:
 * [  → Modeling - Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Quora_Dataset_Model.ipynb) - pure Keras
