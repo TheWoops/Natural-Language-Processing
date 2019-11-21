@@ -16,7 +16,7 @@ The links below display the above notebooks via nbviewer, because Github sometim
 * [BERT via TensorflowHub showcase for the Quora Dataset](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Transfer%20Learning_BERT_mit_TensorflowHub.ipynb)
   * *Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova: ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"](https://arxiv.org/abs/1810.04805), 2018.*
 * [XLNET with SpaCy-Pytorch Transformers showcase for the Quora Dataset](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Transfer%20Learning_XLNet_mit_SpaCy.ipynb)
-  * *Zhilin Yang and Zihang Dai and Yiming Yang and Jaime Carbonell and Ruslan Salakhutdinov and Quoc V. Le.[XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)*
+  * *Zhilin Yang and Zihang Dai and Yiming Yang and Jaime Carbonell and Ruslan Salakhutdinov and Quoc V. Le.[XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237). arXiv preprint arXiv:1906.08237, 2019*
 * [BERT with SpaCy-Pytorch-Transformers showcase for the Quora Dataset](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Transfer%20Learning_BERT_mit_%20SpaCy.ipynb)
   * *Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova: ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"](https://arxiv.org/abs/1810.04805), 2018.*
 
