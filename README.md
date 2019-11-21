@@ -1,7 +1,6 @@
 # Natural-Language-Processing
 
 State-of-the-art NLP principles and methods for toxic comment classification<br />
-In the notebooks above these techniques are applied.<br />
 The links below display the above notebooks via nbviewer, because Github sometimes fails to display .ipynb-files properly. 
 
 
@@ -15,9 +14,12 @@ The links below display the above notebooks via nbviewer, because Github sometim
 * [ELMO via TensorflowHub showcase for the Quora Dataset](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Transfer_Learning_ELMO_mit_TensorflowHub.ipynb)
    * *Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer. [Deep contextualized word representations](https://arxiv.org/abs/1802.05365). arXiv preprint arXiv:1802.05365, 2018.*
 * [BERT via TensorflowHub showcase for the Quora Dataset](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Transfer%20Learning_BERT_mit_TensorflowHub.ipynb)
+  * *Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova: ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"](https://arxiv.org/abs/1810.04805), 2018.*
 * [XLNET with SpaCy-Pytorch Transformers showcase for the Quora Dataset](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Transfer%20Learning_XLNet_mit_SpaCy.ipynb)
+  * *Zhilin Yang and Zihang Dai and Yiming Yang and Jaime Carbonell and Ruslan Salakhutdinov and Quoc V. Le.[XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)*
 * [BERT with SpaCy-Pytorch-Transformers showcase for the Quora Dataset](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Transfer%20Learning_BERT_mit_%20SpaCy.ipynb)
-<br></br>
+  * *Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova: ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"](https://arxiv.org/abs/1810.04805), 2018.*
+
 ### Resources
 
 * #### Deep Learning 
