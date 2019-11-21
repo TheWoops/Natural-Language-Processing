@@ -35,6 +35,7 @@ The links below display the above notebooks via nbviewer, because Github sometim
     * [Nice Article about Embeddings and Language Models](https://towardsdatascience.com/from-word-embeddings-to-pretrained-language-models-a-new-age-in-nlp-part-2-e9af9a0bdcd9)
   * ##### Modeling
     * https://github.com/explosion/spacy-pytorch-transformers (spaCy pipelines for BERT, XLNet and GPT-2)
+    * [How to Fine Tune BERT](https://arxiv.org/pdf/1905.05583.pdf)
   * ##### Evaluation
     * [AI Fairness 360 - Bias, Fairness Testing](https://github.com/IBM/AIF360)
     
