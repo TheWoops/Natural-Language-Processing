@@ -4,18 +4,20 @@ State-of-the-art NLP principles and methods for toxic comment classification<br 
 In the notebooks above these techniques are applied.<br />
 The links below display the above notebooks via nbviewer, because Github sometimes fails to display .ipynb-files properly. 
 
-[  → Basic NLP-Preprocessing Techniques (Python Code Snippets) ](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Theorieteil%20-%20Data_Preparation.ipynb)<br />
+
 
 ### Data preparation:
-[  → Data Exploration - Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Praxisteil%20-%20Data_Exploration.ipynb)
+* [Basic NLP-Preprocessing Techniques (Python Code Snippets) ](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Data_Preparation.ipynb)<br />
+* [Data Exploration - Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Data_Exploration.ipynb)
 
 ### Modeling:
-* [Custom Keras Model](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Praxisteil%20-%20Finaler_Prototyp.ipynb) 
+* [Custom Keras NN-Model](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Finaler_Prototyp.ipynb) 
 * [ELMO via TensorflowHub showcase for the Quora Dataset](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Transfer_Learning_ELMO_mit_TensorflowHub.ipynb)
+   * *Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer. [Deep contextualized word representations](https://arxiv.org/abs/1802.05365). arXiv preprint arXiv:1802.05365, 2018.*
 * [BERT via TensorflowHub showcase for the Quora Dataset](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Transfer%20Learning_BERT_mit_TensorflowHub.ipynb)
 * [XLNET with SpaCy-Pytorch Transformers showcase for the Quora Dataset](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Transfer%20Learning_XLNet_mit_SpaCy.ipynb)
 * [BERT with SpaCy-Pytorch-Transformers showcase for the Quora Dataset](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Transfer%20Learning_BERT_mit_%20SpaCy.ipynb)
-
+<br></br>
 ### Resources
 
 * #### Deep Learning 
