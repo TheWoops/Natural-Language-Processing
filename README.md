@@ -9,7 +9,7 @@ The links below display the above notebooks via nbviewer, because Github sometim
 * [Basic NLP-Preprocessing Techniques (Python Code Snippets) ](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Data_Preparation.ipynb)<br />
 * [Data Exploration - Quora Kaggle Competition](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Data_Exploration.ipynb)
 
-### Modeling:
+## Modeling:
 * [Custom Keras NN-Model](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Finaler_Prototyp.ipynb) 
 * [ELMO via TensorflowHub showcase for the Quora Dataset](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Transfer_Learning_ELMO_mit_TensorflowHub.ipynb)
    * *Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer. [Deep contextualized word representations](https://arxiv.org/abs/1802.05365). arXiv preprint arXiv:1802.05365, 2018.*
@@ -26,6 +26,7 @@ The links below display the above notebooks via nbviewer, because Github sometim
   * https://www.d2l.ai/chapter_attention-mechanism/attention.html
   * https://course.fast.ai/index.html
   * http://nlp.fast.ai/category/classification.html GREAT!
+  * https://en.d2l.ai/d2l-en.pdf
 
 * #### NLP
   * ##### Preprocessing & Embeddings
@@ -39,9 +40,7 @@ The links below display the above notebooks via nbviewer, because Github sometim
   * ##### Evaluation
     * [AI Fairness 360 - Bias, Fairness Testing](https://github.com/IBM/AIF360)
     
-* #### Online Books (free!)
-  * ##### Deep Learning: https://en.d2l.ai/d2l-en.pdf
-  * ##### NLP: [nltk book](http://www.nltk.org/book/) and [nlp.stanford 1](https://web.stanford.edu/~jurafsky/slp3/) / [nlp.standford 2](https://nlp.stanford.edu/fsnlp/)
+  * ##### NLP:  [nltk book](http://www.nltk.org/book/) and [nlp.stanford 1](https://web.stanford.edu/~jurafsky/slp3/) / [nlp.standford 2](https://nlp.stanford.edu/fsnlp/)
 
 
 * #### State-of-the-Art Approaches (Paper Overview)
@@ -64,3 +63,5 @@ The links below display the above notebooks via nbviewer, because Github sometim
     * [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - A toolkit enabling rapid deep learning NLP prototyping for research.
     * [spacy](https://spacy.io/) - A library for industrial-strength natural language processing in Python and Cython.
     * [stanfordnlp](https://github.com/stanfordnlp/stanfordnlp) - The Stanford NLP Group's official Python library, supporting 50+ 
+    * [flair] (https://github.com/zalandoresearch/flair) - library for state-of-the-art NLP by zalandoresearch
+    * [fastai] (https://github.com/fastai/fastai) - well documented NLP library for transfrer learning
