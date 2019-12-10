@@ -63,5 +63,5 @@ The links below display the above notebooks via nbviewer, because Github sometim
     * [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - A toolkit enabling rapid deep learning NLP prototyping for research.
     * [spacy](https://spacy.io/) - A library for industrial-strength natural language processing in Python and Cython.
     * [stanfordnlp](https://github.com/stanfordnlp/stanfordnlp) - The Stanford NLP Group's official Python library, supporting 50+ 
-    * [flair] (https://github.com/zalandoresearch/flair) - library for state-of-the-art NLP by zalandoresearch
-    * [fastai] (https://github.com/fastai/fastai) - well documented NLP library for transfrer learning
+    * [flair](https://github.com/zalandoresearch/flair) - library for state-of-the-art NLP by zalandoresearch
+    * [fastai](https://github.com/fastai/fastai) - well documented NLP library for transfer learning
