@@ -20,7 +20,7 @@ The links below display the above notebooks via nbviewer, because Github sometim
 * [BERT with SpaCy-Pytorch-Transformers showcase for the Quora Dataset](https://nbviewer.jupyter.org/github/TheWoops/Natural-Language-Processing/blob/master/Transfer%20Learning_BERT_mit_%20SpaCy.ipynb)
   * *Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova: ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"](https://arxiv.org/abs/1810.04805), 2018.*
 
-### Resources
+## Resources
 
 * #### Deep Learning 
   * https://www.d2l.ai/chapter_attention-mechanism/attention.html
@@ -40,14 +40,27 @@ The links below display the above notebooks via nbviewer, because Github sometim
     * [AI Fairness 360 - Bias, Fairness Testing](https://github.com/IBM/AIF360)
     
 * #### Online Books (free!)
-  * ##### Deep Learning
-    * https://en.d2l.ai/d2l-en.pdf
-  * ##### NLP
-    * http://www.nltk.org/book/
-    * Basic Text Books: https://web.stanford.edu/~jurafsky/slp3/ & https://nlp.stanford.edu/fsnlp/
+  * ##### Deep Learning: https://en.d2l.ai/d2l-en.pdf
+  * ##### NLP: [nltk book](http://www.nltk.org/book/) and [nlp.stanford 1](https://web.stanford.edu/~jurafsky/slp3/) / [nlp.standford 2](https://nlp.stanford.edu/fsnlp/)
+
 
 * #### State-of-the-Art Approaches (Paper Overview)
   * http://www.arxiv-sanity.com/ (AI-papers  in general)
   * https://www.aclweb.org/anthology (papers on the study of computational linguistics and NLP)
   * https://github.com/sebastianruder/NLP-progress/blob/master/english/sentiment_analysis.md
   * https://github.com/keon/awesome-nlp#research-summaries-and-trends
+  
+## Natural Language Processing
+
+*Libraries for working with human languages.*
+
+- General
+    * [gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modeling for Humans.
+    * [langid.py](https://github.com/saffsd/langid.py) - Stand-alone language identification system.
+    * [nltk](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
+    * [pattern](https://github.com/clips/pattern) - A web mining module for the Python.
+    * [polyglot](https://github.com/aboSamoor/polyglot) - Natural language pipeline supporting hundreds of languages.
+    * [pytext](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch.
+    * [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - A toolkit enabling rapid deep learning NLP prototyping for research.
+    * [spacy](https://spacy.io/) - A library for industrial-strength natural language processing in Python and Cython.
+    * [stanfordnlp](https://github.com/stanfordnlp/stanfordnlp) - The Stanford NLP Group's official Python library, supporting 50+ 
