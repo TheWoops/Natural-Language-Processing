@@ -65,3 +65,4 @@ The links below display the above notebooks via nbviewer, because Github sometim
     * [stanfordnlp](https://github.com/stanfordnlp/stanfordnlp) - The Stanford NLP Group's official Python library, supporting 50+ 
     * [flair](https://github.com/zalandoresearch/flair) - library for state-of-the-art NLP by zalandoresearch
     * [fastai](https://github.com/fastai/fastai) - well documented NLP library for transfer learning
+      * [fastai V2 latest paper](https://arxiv.org/pdf/2002.04688)
